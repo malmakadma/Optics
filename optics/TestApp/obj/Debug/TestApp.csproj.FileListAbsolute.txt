@@ -1,0 +1,191 @@
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\Npgsql.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Text.Json.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Threading.Channels.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.ValueTuple.dll
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\Npgsql.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Buffers.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Memory.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Text.Json.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Threading.Channels.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\source\repos\TestApp\TestApp\bin\Debug\System.ValueTuple.xml
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.CreateOrderForm.resources
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.EditCustomerForm.resources
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.EditOrderItem.resources
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.EditProduct.resources
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.MainForm.resources
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.ReportsForm.resources
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.SQLForm.resources
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.RecipeForm.resources
+C:\Users\user\source\repos\TestApp\TestApp\obj\Debug\TestApp.EmployeeForm.resources
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\Npgsql.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Buffers.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Memory.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Text.Json.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Threading.Channels.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\Npgsql.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Buffers.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Memory.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Text.Json.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Threading.Channels.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.CreateOrderForm.resources
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.EditCustomerForm.resources
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.EditOrderItem.resources
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.EditProduct.resources
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.MainForm.resources
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.RecipeForm.resources
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.EmployeeForm.resources
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.ReportsForm.resources
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.SQLForm.resources
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Mariam\Downloads\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\Npgsql.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Buffers.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Memory.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Text.Json.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Threading.Channels.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\Npgsql.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Buffers.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Memory.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Text.Json.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Threading.Channels.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.CreateOrderForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.EditCustomerForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.EditOrderItem.resources
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.EditProduct.resources
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.MainForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.RecipeForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.EmployeeForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.ReportsForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.SQLForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\Mariam\source\repos\TestApp (28)\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\TestApp.exe
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\Npgsql.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Buffers.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Memory.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Text.Json.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Threading.Channels.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\Npgsql.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Buffers.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Memory.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Text.Json.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Threading.Channels.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.CreateOrderForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.EditCustomerForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.EditOrderItem.resources
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.EditProduct.resources
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.MainForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.RecipeForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.EmployeeForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.ReportsForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.SQLForm.resources
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.exe
+C:\Users\Mariam\source\repos\TestApp (28)\Оптика\TestApp\obj\Debug\TestApp.pdb
